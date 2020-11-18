@@ -1,6 +1,6 @@
 // Your code goes here
 document.addEventListener("DOMContentLoaded", function() {
-  document.get
+  document.getElementById("demo")
   //console.log("The DOM has loaded");
 });
 
